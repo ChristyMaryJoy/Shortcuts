@@ -304,6 +304,9 @@
     <None Include="Resources\Spa Logo.bmp" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Sample1.txt" />
+  </ItemGroup>
+  <ItemGroup>
     <Folder Include="obj\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />

@@ -111,3 +111,6 @@ G:\ShortcutsMini07082017\ShortcutsMini\obj\Debug\ii-CN\ShortcutsMini.resources.d
 G:\ShortcutsMini07082017\ShortcutsMini\obj\Debug\ShortcutsMini.exe
 G:\ShortcutsMini07082017\ShortcutsMini\obj\Debug\ShortcutsMini.xml
 G:\ShortcutsMini07082017\ShortcutsMini\obj\Debug\ShortcutsMini.pdb
+C:\Users\ShemeerOveli\Documents\GitHub\Shortcuts\ShortcutsMini\obj\Debug\ShortcutsMini.exe
+C:\Users\ShemeerOveli\Documents\GitHub\Shortcuts\ShortcutsMini\obj\Debug\ShortcutsMini.xml
+C:\Users\ShemeerOveli\Documents\GitHub\Shortcuts\ShortcutsMini\obj\Debug\ShortcutsMini.pdb
