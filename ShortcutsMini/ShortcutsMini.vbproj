@@ -1,0 +1,317 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{E7328E17-9670-49D1-87AD-E1C1EB2E9261}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>ShortcutsMini.My.MyApplication</StartupObject>
+    <RootNamespace>ShortcutsMini</RootNamespace>
+    <AssemblyName>ShortcutsMini</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <OptionExplicit>On</OptionExplicit>
+    <OptionCompare>Binary</OptionCompare>
+    <OptionStrict>Off</OptionStrict>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>ShortcutsMini.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>ShortcutsMini.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="KOSLibraries, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\Project\ShortcutsMini Project Plans\Sample forms\OneDrive-2017-05-16\KOSLibraries.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Windows.Forms.Ribbon, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\Project\ShortcutsMini Project Plans\Sample forms\OneDrive-2017-05-16\System.Windows.Forms.Ribbon.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BusinessLayer\ClientBL\ClsAddClientBL.vb" />
+    <Compile Include="BusinessLayer\ClientBL\ClsClientSearchBL.vb" />
+    <Compile Include="BusinessLayer\InventoryBL\clsCompanyBL.vb" />
+    <Compile Include="BusinessLayer\InventoryBL\clsLineBL.vb" />
+    <Compile Include="BusinessLayer\InventoryBL\clsSupplierBL.vb" />
+    <Compile Include="BusinessLayer\ServiceBL\clsSeriesServiceBL.vb" />
+    <Compile Include="BusinessLayer\ServiceBL\clsServiceBL.vb" />
+    <Compile Include="BusinessLayer\ServiceBL\clsServiceCategoryBL.vb" />
+    <Compile Include="BusinessLayer\CommonFunctionBL\CommonFunctionBL.vb" />
+    <Compile Include="BusinessLayer\MastersBL\clsLoginBL.vb" />
+    <Compile Include="BusinessLayer\MastersBL\clsMenuItemsBL.vb" />
+    <Compile Include="BusinessLayer\MastersBL\clsPermissionBL.vb" />
+    <Compile Include="BusinessLayer\MastersBL\clsUserGroupBL.vb" />
+    <Compile Include="BusinessLayer\EmployeeBL\ClsAddEmployeeBL.vb" />
+    <Compile Include="BusinessLayer\EmployeeBL\ClsEmployeeSearchBL.vb" />
+    <Compile Include="DataLayer\InventoryDL\clsCompanyDL.vb" />
+    <Compile Include="DataLayer\InventoryDL\clsLineDL.vb" />
+    <Compile Include="DataLayer\InventoryDL\clsSupplierDL.vb" />
+    <Compile Include="DataLayer\MastersDL\CreateLogFile.vb" />
+    <Compile Include="DataLayer\ClientDL\ClsAddClientDL.vb" />
+    <Compile Include="DataLayer\ClientDL\ClsClientSearchDL.vb" />
+    <Compile Include="DataLayer\ServiceDL\clsSeriesServiceDL.vb" />
+    <Compile Include="DataLayer\ServiceDL\clsServiceCategoryDL.vb" />
+    <Compile Include="DataLayer\ServiceDL\clsServiceDL.vb" />
+    <Compile Include="DataLayer\CommonDL\clsCommonFunctionDL.vb" />
+    <Compile Include="DataLayer\MastersDL\connection.vb" />
+    <Compile Include="DataLayer\MastersDL\clsLoginDL.vb" />
+    <Compile Include="DataLayer\MastersDL\clsMenuItemDL.vb" />
+    <Compile Include="DataLayer\MastersDL\clsPermissionDL.vb" />
+    <Compile Include="BusinessLayer\CommonFunctionBL\PublicVariables.vb" />
+    <Compile Include="DataLayer\MastersDL\clsUserGroupDL.vb" />
+    <Compile Include="DataLayer\MastersDL\ShowMessageBox.vb" />
+    <Compile Include="DataLayer\EmployeeDL\ClsAddEmployeeDL.vb" />
+    <Compile Include="DataLayer\EmployeeDL\ClsEmployeeSearchDL.vb" />
+    <Compile Include="DataLayer\MastersDL\ValidateControl.vb" />
+    <Compile Include="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GuiServices\frmAddPackageService.Designer.vb">
+      <DependentUpon>frmAddPackageService.vb</DependentUpon>
+    </Compile>
+    <Compile Include="GuiServices\frmAddPackageService.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GuiServices\frmAddSeriesService.Designer.vb">
+      <DependentUpon>frmAddSeriesService.vb</DependentUpon>
+    </Compile>
+    <Compile Include="GuiServices\frmAddSeriesService.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GuiServices\frmAddServiceCategory.Designer.vb">
+      <DependentUpon>frmAddServiceCategory.vb</DependentUpon>
+    </Compile>
+    <Compile Include="GuiServices\frmAddServiceCategory.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GuiServices\frmAddServices.Designer.vb">
+      <DependentUpon>frmAddServices.vb</DependentUpon>
+    </Compile>
+    <Compile Include="GuiServices\frmAddServices.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GuiClient\frmAddClient.Designer.vb">
+      <DependentUpon>frmAddClient.vb</DependentUpon>
+    </Compile>
+    <Compile Include="GuiClient\frmAddClient.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GuiClient\frmClientSearch.Designer.vb">
+      <DependentUpon>frmClientSearch.vb</DependentUpon>
+    </Compile>
+    <Compile Include="GuiClient\frmClientSearch.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GuiInventory\frmAddCompany.Designer.vb">
+      <DependentUpon>frmAddCompany.vb</DependentUpon>
+    </Compile>
+    <Compile Include="GuiInventory\frmAddCompany.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GuiInventory\frmAddLine.Designer.vb">
+      <DependentUpon>frmAddLine.vb</DependentUpon>
+    </Compile>
+    <Compile Include="GuiInventory\frmAddLine.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GuiInventory\frmAddSupplier.Designer.vb">
+      <DependentUpon>frmAddSupplier.vb</DependentUpon>
+    </Compile>
+    <Compile Include="GuiInventory\frmAddSupplier.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GuiInventory\frmAddProduct.Designer.vb">
+      <DependentUpon>frmAddProduct.vb</DependentUpon>
+    </Compile>
+    <Compile Include="GuiInventory\frmAddProduct.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GuiMasters\frmAddUserType.Designer.vb">
+      <DependentUpon>frmAddUserType.vb</DependentUpon>
+    </Compile>
+    <Compile Include="GuiMasters\frmAddUserType.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GuiMasters\frmIndex.Designer.vb">
+      <DependentUpon>frmIndex.vb</DependentUpon>
+    </Compile>
+    <Compile Include="GuiMasters\frmIndex.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GuiMasters\frmlogin.Designer.vb">
+      <DependentUpon>frmlogin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="GuiMasters\frmlogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GuiEmployee\frmAddEmployee.Designer.vb">
+      <DependentUpon>frmAddEmployee.vb</DependentUpon>
+    </Compile>
+    <Compile Include="GuiEmployee\frmAddEmployee.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GuiEmployee\frmEmployeeSearch.Designer.vb">
+      <DependentUpon>frmEmployeeSearch.vb</DependentUpon>
+    </Compile>
+    <Compile Include="GuiEmployee\frmEmployeeSearch.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="DataLayer\MastersDL\ValueAndTextBL.vb" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GuiMasters\frmlogin.en.resx">
+      <DependentUpon>frmlogin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GuiServices\frmAddPackageService.resx">
+      <DependentUpon>frmAddPackageService.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GuiServices\frmAddSeriesService.resx">
+      <DependentUpon>frmAddSeriesService.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GuiServices\frmAddServiceCategory.resx">
+      <DependentUpon>frmAddServiceCategory.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GuiServices\frmAddServices.resx">
+      <DependentUpon>frmAddServices.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GuiClient\frmAddClient.resx">
+      <DependentUpon>frmAddClient.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GuiClient\frmClientSearch.resx">
+      <DependentUpon>frmClientSearch.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GuiInventory\frmAddCompany.resx">
+      <DependentUpon>frmAddCompany.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GuiInventory\frmAddLine.resx">
+      <DependentUpon>frmAddLine.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GuiInventory\frmAddSupplier.resx">
+      <DependentUpon>frmAddSupplier.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GuiInventory\frmAddProduct.resx">
+      <DependentUpon>frmAddProduct.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GuiMasters\frmAddUserType.resx">
+      <DependentUpon>frmAddUserType.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GuiMasters\frmIndex.resx">
+      <DependentUpon>frmIndex.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GuiMasters\frmlogin.ii-CN.resx">
+      <DependentUpon>frmlogin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GuiMasters\frmlogin.resx">
+      <DependentUpon>frmlogin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GuiEmployee\frmAddEmployee.resx">
+      <DependentUpon>frmAddEmployee.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GuiEmployee\frmEmployeeSearch.resx">
+      <DependentUpon>frmEmployeeSearch.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spa final logo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spa Logo.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="obj\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

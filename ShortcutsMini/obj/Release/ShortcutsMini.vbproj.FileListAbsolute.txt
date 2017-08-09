@@ -1,0 +1,231 @@
+G:\14062017onedrive\ShortcutsMini\ShortcutsMini\obj\Release\ResolveAssemblyReference.cache
+G:\14062017onedrive\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.Form1.resources
+G:\14062017onedrive\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.frmAddClient.resources
+G:\14062017onedrive\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.frmClientSearch.resources
+G:\14062017onedrive\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.frmAddCompany.resources
+G:\14062017onedrive\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.frmAddLine.resources
+G:\14062017onedrive\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.frmAddSupplier.resources
+G:\14062017onedrive\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.frmAddProduct.resources
+G:\14062017onedrive\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.frmAddUserType.resources
+G:\14062017onedrive\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.frmIndex.resources
+G:\14062017onedrive\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.frmlogin.resources
+G:\14062017onedrive\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.frmAddSeriesPackage.resources
+G:\14062017onedrive\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.frmAddServiceCategory.resources
+G:\14062017onedrive\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.frmAddServices.resources
+G:\14062017onedrive\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.frmAddNonSeriesPackage.resources
+G:\14062017onedrive\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.Resources.resources
+G:\14062017onedrive\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.frmlogin.ii-CN.resources
+G:\14062017onedrive\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.vbproj.GenerateResource.Cache
+G:\14062017onedrive\ShortcutsMini\ShortcutsMini\bin\Release\ShortcutsMini.exe
+G:\14062017onedrive\ShortcutsMini\ShortcutsMini\bin\Release\ShortcutsMini.pdb
+G:\14062017onedrive\ShortcutsMini\ShortcutsMini\bin\Release\ShortcutsMini.xml
+G:\14062017onedrive\ShortcutsMini\ShortcutsMini\bin\Release\ii-CN\ShortcutsMini.resources.dll
+G:\14062017onedrive\ShortcutsMini\ShortcutsMini\bin\Release\KOSLibraries.dll
+G:\14062017onedrive\ShortcutsMini\ShortcutsMini\bin\Release\System.Windows.Forms.Ribbon.dll
+G:\14062017onedrive\ShortcutsMini\ShortcutsMini\obj\Release\ii-CN\ShortcutsMini.resources.dll
+G:\14062017onedrive\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.exe
+G:\14062017onedrive\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.xml
+G:\14062017onedrive\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.pdb
+G:\14062017onedrive\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.FrmAddEmployee.resources
+G:\14062017onedrive\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.frmEmployeeSearch.resources
+D:\ShortcutsMini Project Plans\14062017onedrive\ShortcutsMini\ShortcutsMini\bin\Release\ShortcutsMini.exe
+D:\ShortcutsMini Project Plans\14062017onedrive\ShortcutsMini\ShortcutsMini\bin\Release\ShortcutsMini.pdb
+D:\ShortcutsMini Project Plans\14062017onedrive\ShortcutsMini\ShortcutsMini\bin\Release\ShortcutsMini.xml
+D:\ShortcutsMini Project Plans\14062017onedrive\ShortcutsMini\ShortcutsMini\bin\Release\ii-CN\ShortcutsMini.resources.dll
+D:\ShortcutsMini Project Plans\14062017onedrive\ShortcutsMini\ShortcutsMini\obj\Release\ResolveAssemblyReference.cache
+D:\ShortcutsMini Project Plans\14062017onedrive\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.Form1.resources
+D:\ShortcutsMini Project Plans\14062017onedrive\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.frmAddPackageService.resources
+D:\ShortcutsMini Project Plans\14062017onedrive\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.frmAddSeriesService.resources
+D:\ShortcutsMini Project Plans\14062017onedrive\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.frmAddServiceCategory.resources
+D:\ShortcutsMini Project Plans\14062017onedrive\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.frmAddServices.resources
+D:\ShortcutsMini Project Plans\14062017onedrive\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.frmAddClient.resources
+D:\ShortcutsMini Project Plans\14062017onedrive\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.frmClientSearch.resources
+D:\ShortcutsMini Project Plans\14062017onedrive\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.frmAddCompany.resources
+D:\ShortcutsMini Project Plans\14062017onedrive\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.frmAddLine.resources
+D:\ShortcutsMini Project Plans\14062017onedrive\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.frmAddSupplier.resources
+D:\ShortcutsMini Project Plans\14062017onedrive\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.frmAddProduct.resources
+D:\ShortcutsMini Project Plans\14062017onedrive\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.frmAddUserType.resources
+D:\ShortcutsMini Project Plans\14062017onedrive\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.frmIndex.resources
+D:\ShortcutsMini Project Plans\14062017onedrive\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.frmlogin.resources
+D:\ShortcutsMini Project Plans\14062017onedrive\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.FrmAddEmployee.resources
+D:\ShortcutsMini Project Plans\14062017onedrive\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.frmEmployeeSearch.resources
+D:\ShortcutsMini Project Plans\14062017onedrive\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.Resources.resources
+D:\ShortcutsMini Project Plans\14062017onedrive\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.frmlogin.ii-CN.resources
+D:\ShortcutsMini Project Plans\14062017onedrive\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.vbproj.GenerateResource.Cache
+D:\ShortcutsMini Project Plans\14062017onedrive\ShortcutsMini\ShortcutsMini\obj\Release\ii-CN\ShortcutsMini.resources.dll
+D:\ShortcutsMini Project Plans\14062017onedrive\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.exe
+D:\ShortcutsMini Project Plans\14062017onedrive\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.xml
+D:\ShortcutsMini Project Plans\14062017onedrive\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.pdb
+D:\ShortcutsMini Project Plans\Shortcuts31072017\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.exe
+D:\ShortcutsMini Project Plans\Shortcuts31072017\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.xml
+D:\ShortcutsMini Project Plans\Shortcuts31072017\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.pdb
+D:\ShortcutsMini Project Plans\Shortcuts31072017\ShortcutsMini\ShortcutsMini\obj\Release\ResolveAssemblyReference.cache
+D:\ShortcutsMini Project Plans\Shortcuts31072017\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.Form1.resources
+D:\ShortcutsMini Project Plans\Shortcuts31072017\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.frmAddPackageService.resources
+D:\ShortcutsMini Project Plans\Shortcuts31072017\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.frmAddSeriesService.resources
+D:\ShortcutsMini Project Plans\Shortcuts31072017\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.frmAddServiceCategory.resources
+D:\ShortcutsMini Project Plans\Shortcuts31072017\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.frmAddServices.resources
+D:\ShortcutsMini Project Plans\Shortcuts31072017\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.frmAddClient.resources
+D:\ShortcutsMini Project Plans\Shortcuts31072017\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.frmClientSearch.resources
+D:\ShortcutsMini Project Plans\Shortcuts31072017\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.frmAddCompany.resources
+D:\ShortcutsMini Project Plans\Shortcuts31072017\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.frmAddLine.resources
+D:\ShortcutsMini Project Plans\Shortcuts31072017\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.frmAddSupplier.resources
+D:\ShortcutsMini Project Plans\Shortcuts31072017\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.frmAddProduct.resources
+D:\ShortcutsMini Project Plans\Shortcuts31072017\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.frmAddUserType.resources
+D:\ShortcutsMini Project Plans\Shortcuts31072017\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.frmIndex.resources
+D:\ShortcutsMini Project Plans\Shortcuts31072017\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.frmlogin.resources
+D:\ShortcutsMini Project Plans\Shortcuts31072017\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.FrmAddEmployee.resources
+D:\ShortcutsMini Project Plans\Shortcuts31072017\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.frmEmployeeSearch.resources
+D:\ShortcutsMini Project Plans\Shortcuts31072017\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.Resources.resources
+D:\ShortcutsMini Project Plans\Shortcuts31072017\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.frmlogin.ii-CN.resources
+D:\ShortcutsMini Project Plans\Shortcuts31072017\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.vbproj.GenerateResource.Cache
+D:\ShortcutsMini Project Plans\Shortcuts31072017\ShortcutsMini\ShortcutsMini\bin\Release\ShortcutsMini.exe
+D:\ShortcutsMini Project Plans\Shortcuts31072017\ShortcutsMini\ShortcutsMini\bin\Release\ShortcutsMini.pdb
+D:\ShortcutsMini Project Plans\Shortcuts31072017\ShortcutsMini\ShortcutsMini\bin\Release\ShortcutsMini.xml
+D:\ShortcutsMini Project Plans\Shortcuts31072017\ShortcutsMini\ShortcutsMini\bin\Release\ii-CN\ShortcutsMini.resources.dll
+D:\ShortcutsMini Project Plans\Shortcuts31072017\ShortcutsMini\ShortcutsMini\obj\Release\ii-CN\ShortcutsMini.resources.dll
+D:\ShortcutsMini Project Plans\Shortcuts01082017\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.exe
+D:\ShortcutsMini Project Plans\Shortcuts01082017\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.xml
+D:\ShortcutsMini Project Plans\Shortcuts01082017\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.pdb
+D:\ShortcutsMini Project Plans\Shortcuts01082017\ShortcutsMini\ShortcutsMini\bin\Release\ShortcutsMini.exe
+D:\ShortcutsMini Project Plans\Shortcuts01082017\ShortcutsMini\ShortcutsMini\bin\Release\ShortcutsMini.pdb
+D:\ShortcutsMini Project Plans\Shortcuts01082017\ShortcutsMini\ShortcutsMini\bin\Release\ShortcutsMini.xml
+D:\ShortcutsMini Project Plans\Shortcuts01082017\ShortcutsMini\ShortcutsMini\bin\Release\ii-CN\ShortcutsMini.resources.dll
+D:\ShortcutsMini Project Plans\Shortcuts01082017\ShortcutsMini\ShortcutsMini\obj\Release\ResolveAssemblyReference.cache
+D:\ShortcutsMini Project Plans\Shortcuts01082017\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.Form1.resources
+D:\ShortcutsMini Project Plans\Shortcuts01082017\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.frmAddPackageService.resources
+D:\ShortcutsMini Project Plans\Shortcuts01082017\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.frmAddSeriesService.resources
+D:\ShortcutsMini Project Plans\Shortcuts01082017\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.frmAddServiceCategory.resources
+D:\ShortcutsMini Project Plans\Shortcuts01082017\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.frmAddServices.resources
+D:\ShortcutsMini Project Plans\Shortcuts01082017\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.frmAddClient.resources
+D:\ShortcutsMini Project Plans\Shortcuts01082017\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.frmClientSearch.resources
+D:\ShortcutsMini Project Plans\Shortcuts01082017\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.frmAddCompany.resources
+D:\ShortcutsMini Project Plans\Shortcuts01082017\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.frmAddLine.resources
+D:\ShortcutsMini Project Plans\Shortcuts01082017\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.frmAddSupplier.resources
+D:\ShortcutsMini Project Plans\Shortcuts01082017\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.frmAddProduct.resources
+D:\ShortcutsMini Project Plans\Shortcuts01082017\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.frmAddUserType.resources
+D:\ShortcutsMini Project Plans\Shortcuts01082017\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.frmIndex.resources
+D:\ShortcutsMini Project Plans\Shortcuts01082017\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.frmlogin.resources
+D:\ShortcutsMini Project Plans\Shortcuts01082017\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.FrmAddEmployee.resources
+D:\ShortcutsMini Project Plans\Shortcuts01082017\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.frmEmployeeSearch.resources
+D:\ShortcutsMini Project Plans\Shortcuts01082017\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.Resources.resources
+D:\ShortcutsMini Project Plans\Shortcuts01082017\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.frmlogin.ii-CN.resources
+D:\ShortcutsMini Project Plans\Shortcuts01082017\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.vbproj.GenerateResource.Cache
+D:\ShortcutsMini Project Plans\Shortcuts01082017\ShortcutsMini\ShortcutsMini\obj\Release\ii-CN\ShortcutsMini.resources.dll
+D:\ShortcutsMini Project Plans\Shortcuts02082017\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.exe
+D:\ShortcutsMini Project Plans\Shortcuts02082017\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.xml
+D:\ShortcutsMini Project Plans\Shortcuts02082017\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.pdb
+D:\ShortcutsMini Project Plans\Shortcuts03082017\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.exe
+D:\ShortcutsMini Project Plans\Shortcuts03082017\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.xml
+D:\ShortcutsMini Project Plans\Shortcuts03082017\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.pdb
+D:\ShortcutsMini Project Plans\Shortcuts03082017\ShortcutsMini\ShortcutsMini\bin\Release\ShortcutsMini.exe
+D:\ShortcutsMini Project Plans\Shortcuts03082017\ShortcutsMini\ShortcutsMini\bin\Release\ShortcutsMini.pdb
+D:\ShortcutsMini Project Plans\Shortcuts03082017\ShortcutsMini\ShortcutsMini\bin\Release\ShortcutsMini.xml
+D:\ShortcutsMini Project Plans\Shortcuts03082017\ShortcutsMini\ShortcutsMini\bin\Release\ii-CN\ShortcutsMini.resources.dll
+D:\ShortcutsMini Project Plans\Shortcuts03082017\ShortcutsMini\ShortcutsMini\obj\Release\ResolveAssemblyReference.cache
+D:\ShortcutsMini Project Plans\Shortcuts03082017\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.Form1.resources
+D:\ShortcutsMini Project Plans\Shortcuts03082017\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.frmAddPackageService.resources
+D:\ShortcutsMini Project Plans\Shortcuts03082017\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.frmAddSeriesService.resources
+D:\ShortcutsMini Project Plans\Shortcuts03082017\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.frmAddServiceCategory.resources
+D:\ShortcutsMini Project Plans\Shortcuts03082017\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.frmAddServices.resources
+D:\ShortcutsMini Project Plans\Shortcuts03082017\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.frmAddClient.resources
+D:\ShortcutsMini Project Plans\Shortcuts03082017\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.frmClientSearch.resources
+D:\ShortcutsMini Project Plans\Shortcuts03082017\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.frmAddCompany.resources
+D:\ShortcutsMini Project Plans\Shortcuts03082017\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.frmAddLine.resources
+D:\ShortcutsMini Project Plans\Shortcuts03082017\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.frmAddSupplier.resources
+D:\ShortcutsMini Project Plans\Shortcuts03082017\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.frmAddProduct.resources
+D:\ShortcutsMini Project Plans\Shortcuts03082017\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.frmAddUserType.resources
+D:\ShortcutsMini Project Plans\Shortcuts03082017\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.frmIndex.resources
+D:\ShortcutsMini Project Plans\Shortcuts03082017\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.frmlogin.resources
+D:\ShortcutsMini Project Plans\Shortcuts03082017\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.FrmAddEmployee.resources
+D:\ShortcutsMini Project Plans\Shortcuts03082017\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.frmEmployeeSearch.resources
+D:\ShortcutsMini Project Plans\Shortcuts03082017\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.Resources.resources
+D:\ShortcutsMini Project Plans\Shortcuts03082017\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.frmlogin.ii-CN.resources
+D:\ShortcutsMini Project Plans\Shortcuts03082017\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.vbproj.GenerateResource.Cache
+D:\ShortcutsMini Project Plans\Shortcuts03082017\ShortcutsMini\ShortcutsMini\obj\Release\ii-CN\ShortcutsMini.resources.dll
+D:\ShortcutsMini Project Plans\Shortcuts04082017\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.exe
+D:\ShortcutsMini Project Plans\Shortcuts04082017\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.xml
+D:\ShortcutsMini Project Plans\Shortcuts04082017\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.pdb
+D:\ShortcutsMini Project Plans\Shortcuts04082017\ShortcutsMini\ShortcutsMini\obj\Release\ResolveAssemblyReference.cache
+D:\ShortcutsMini Project Plans\Shortcuts04082017\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.Form1.resources
+D:\ShortcutsMini Project Plans\Shortcuts04082017\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.frmAddPackageService.resources
+D:\ShortcutsMini Project Plans\Shortcuts04082017\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.frmAddSeriesService.resources
+D:\ShortcutsMini Project Plans\Shortcuts04082017\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.frmAddServiceCategory.resources
+D:\ShortcutsMini Project Plans\Shortcuts04082017\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.frmAddServices.resources
+D:\ShortcutsMini Project Plans\Shortcuts04082017\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.frmAddClient.resources
+D:\ShortcutsMini Project Plans\Shortcuts04082017\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.frmClientSearch.resources
+D:\ShortcutsMini Project Plans\Shortcuts04082017\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.frmAddCompany.resources
+D:\ShortcutsMini Project Plans\Shortcuts04082017\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.frmAddLine.resources
+D:\ShortcutsMini Project Plans\Shortcuts04082017\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.frmAddSupplier.resources
+D:\ShortcutsMini Project Plans\Shortcuts04082017\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.frmAddProduct.resources
+D:\ShortcutsMini Project Plans\Shortcuts04082017\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.frmAddUserType.resources
+D:\ShortcutsMini Project Plans\Shortcuts04082017\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.frmIndex.resources
+D:\ShortcutsMini Project Plans\Shortcuts04082017\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.frmlogin.resources
+D:\ShortcutsMini Project Plans\Shortcuts04082017\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.FrmAddEmployee.resources
+D:\ShortcutsMini Project Plans\Shortcuts04082017\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.frmEmployeeSearch.resources
+D:\ShortcutsMini Project Plans\Shortcuts04082017\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.Resources.resources
+D:\ShortcutsMini Project Plans\Shortcuts04082017\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.frmlogin.ii-CN.resources
+D:\ShortcutsMini Project Plans\Shortcuts04082017\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.vbproj.GenerateResource.Cache
+D:\ShortcutsMini Project Plans\Shortcuts04082017\ShortcutsMini\ShortcutsMini\bin\Release\ShortcutsMini.exe
+D:\ShortcutsMini Project Plans\Shortcuts04082017\ShortcutsMini\ShortcutsMini\bin\Release\ShortcutsMini.pdb
+D:\ShortcutsMini Project Plans\Shortcuts04082017\ShortcutsMini\ShortcutsMini\bin\Release\ShortcutsMini.xml
+D:\ShortcutsMini Project Plans\Shortcuts04082017\ShortcutsMini\ShortcutsMini\bin\Release\ii-CN\ShortcutsMini.resources.dll
+D:\ShortcutsMini Project Plans\Shortcuts04082017\ShortcutsMini\ShortcutsMini\obj\Release\ii-CN\ShortcutsMini.resources.dll
+D:\ShortcutsMini Project Plans\Shortcuts07082017\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.exe
+D:\ShortcutsMini Project Plans\Shortcuts07082017\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.xml
+D:\ShortcutsMini Project Plans\Shortcuts07082017\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.pdb
+D:\ShortcutsMini Project Plans\Shortcuts07082017\ShortcutsMini\ShortcutsMini\bin\Release\ShortcutsMini.exe
+D:\ShortcutsMini Project Plans\Shortcuts07082017\ShortcutsMini\ShortcutsMini\bin\Release\ShortcutsMini.pdb
+D:\ShortcutsMini Project Plans\Shortcuts07082017\ShortcutsMini\ShortcutsMini\bin\Release\ShortcutsMini.xml
+D:\ShortcutsMini Project Plans\Shortcuts07082017\ShortcutsMini\ShortcutsMini\bin\Release\ii-CN\ShortcutsMini.resources.dll
+D:\ShortcutsMini Project Plans\Shortcuts07082017\ShortcutsMini\ShortcutsMini\obj\Release\ResolveAssemblyReference.cache
+D:\ShortcutsMini Project Plans\Shortcuts07082017\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.Form1.resources
+D:\ShortcutsMini Project Plans\Shortcuts07082017\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.frmAddPackageService.resources
+D:\ShortcutsMini Project Plans\Shortcuts07082017\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.frmAddSeriesService.resources
+D:\ShortcutsMini Project Plans\Shortcuts07082017\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.frmAddServiceCategory.resources
+D:\ShortcutsMini Project Plans\Shortcuts07082017\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.frmAddServices.resources
+D:\ShortcutsMini Project Plans\Shortcuts07082017\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.frmAddClient.resources
+D:\ShortcutsMini Project Plans\Shortcuts07082017\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.frmClientSearch.resources
+D:\ShortcutsMini Project Plans\Shortcuts07082017\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.frmAddCompany.resources
+D:\ShortcutsMini Project Plans\Shortcuts07082017\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.frmAddLine.resources
+D:\ShortcutsMini Project Plans\Shortcuts07082017\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.frmAddSupplier.resources
+D:\ShortcutsMini Project Plans\Shortcuts07082017\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.frmAddProduct.resources
+D:\ShortcutsMini Project Plans\Shortcuts07082017\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.frmAddUserType.resources
+D:\ShortcutsMini Project Plans\Shortcuts07082017\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.frmIndex.resources
+D:\ShortcutsMini Project Plans\Shortcuts07082017\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.frmlogin.resources
+D:\ShortcutsMini Project Plans\Shortcuts07082017\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.FrmAddEmployee.resources
+D:\ShortcutsMini Project Plans\Shortcuts07082017\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.frmEmployeeSearch.resources
+D:\ShortcutsMini Project Plans\Shortcuts07082017\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.Resources.resources
+D:\ShortcutsMini Project Plans\Shortcuts07082017\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.frmlogin.ii-CN.resources
+D:\ShortcutsMini Project Plans\Shortcuts07082017\ShortcutsMini\ShortcutsMini\obj\Release\ShortcutsMini.vbproj.GenerateResource.Cache
+D:\ShortcutsMini Project Plans\Shortcuts07082017\ShortcutsMini\ShortcutsMini\obj\Release\ii-CN\ShortcutsMini.resources.dll
+G:\ShortcutsMini07082017\ShortcutsMini\obj\Release\ShortcutsMini.exe
+G:\ShortcutsMini07082017\ShortcutsMini\obj\Release\ShortcutsMini.xml
+G:\ShortcutsMini07082017\ShortcutsMini\obj\Release\ShortcutsMini.pdb
+G:\ShortcutsMini07082017\ShortcutsMini\bin\Release\ShortcutsMini.exe
+G:\ShortcutsMini07082017\ShortcutsMini\bin\Release\ShortcutsMini.pdb
+G:\ShortcutsMini07082017\ShortcutsMini\bin\Release\ShortcutsMini.xml
+G:\ShortcutsMini07082017\ShortcutsMini\bin\Release\ii-CN\ShortcutsMini.resources.dll
+G:\ShortcutsMini07082017\ShortcutsMini\bin\Release\KOSLibraries.dll
+G:\ShortcutsMini07082017\ShortcutsMini\bin\Release\System.Windows.Forms.Ribbon.dll
+G:\ShortcutsMini07082017\ShortcutsMini\obj\Release\ResolveAssemblyReference.cache
+G:\ShortcutsMini07082017\ShortcutsMini\obj\Release\ShortcutsMini.Form1.resources
+G:\ShortcutsMini07082017\ShortcutsMini\obj\Release\ShortcutsMini.frmAddPackageService.resources
+G:\ShortcutsMini07082017\ShortcutsMini\obj\Release\ShortcutsMini.frmAddSeriesService.resources
+G:\ShortcutsMini07082017\ShortcutsMini\obj\Release\ShortcutsMini.frmAddServiceCategory.resources
+G:\ShortcutsMini07082017\ShortcutsMini\obj\Release\ShortcutsMini.frmAddServices.resources
+G:\ShortcutsMini07082017\ShortcutsMini\obj\Release\ShortcutsMini.frmAddClient.resources
+G:\ShortcutsMini07082017\ShortcutsMini\obj\Release\ShortcutsMini.frmClientSearch.resources
+G:\ShortcutsMini07082017\ShortcutsMini\obj\Release\ShortcutsMini.frmAddCompany.resources
+G:\ShortcutsMini07082017\ShortcutsMini\obj\Release\ShortcutsMini.frmAddLine.resources
+G:\ShortcutsMini07082017\ShortcutsMini\obj\Release\ShortcutsMini.frmAddSupplier.resources
+G:\ShortcutsMini07082017\ShortcutsMini\obj\Release\ShortcutsMini.frmAddProduct.resources
+G:\ShortcutsMini07082017\ShortcutsMini\obj\Release\ShortcutsMini.frmAddUserType.resources
+G:\ShortcutsMini07082017\ShortcutsMini\obj\Release\ShortcutsMini.frmIndex.resources
+G:\ShortcutsMini07082017\ShortcutsMini\obj\Release\ShortcutsMini.frmlogin.resources
+G:\ShortcutsMini07082017\ShortcutsMini\obj\Release\ShortcutsMini.FrmAddEmployee.resources
+G:\ShortcutsMini07082017\ShortcutsMini\obj\Release\ShortcutsMini.frmEmployeeSearch.resources
+G:\ShortcutsMini07082017\ShortcutsMini\obj\Release\ShortcutsMini.Resources.resources
+G:\ShortcutsMini07082017\ShortcutsMini\obj\Release\ShortcutsMini.frmlogin.ii-CN.resources
+G:\ShortcutsMini07082017\ShortcutsMini\obj\Release\ShortcutsMini.vbproj.GenerateResource.Cache
+G:\ShortcutsMini07082017\ShortcutsMini\obj\Release\ii-CN\ShortcutsMini.resources.dll
