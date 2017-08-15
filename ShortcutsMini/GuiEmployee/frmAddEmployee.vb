@@ -217,7 +217,7 @@ Public Class FrmAddEmployee
         End If
 
 
-        If (BL.PublicVariables.vaInsertionOrUpdation = "Insertion") Then
+        If (vaInsertionOrUpdation = "Insertion") Then
 
             toShowOrHideButtons(True, False, False, False)
 

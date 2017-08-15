@@ -1,24 +1,17 @@
-﻿
-Imports System.Data.SqlClient
-Public Class frmAddProduct
+﻿Imports System.Data.SqlClient
+
+Public Class frmSearchProduct
+
     Inherits KOSLibraries.KOSForm
 
-<<<<<<< HEAD
-    Private Sub TextBox7_TextChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles TextBox7.TextChanged
-
-    End Sub
-=======
     Implements KOSLibraries.IFormInterface
 
+    Dim sqlreader As SqlDataReader
 
-    Dim objProductBL As New clsProductBL
+    Dim objSearchProductBL As New clsSearchProductBL
     Dim objCommonBL As New BusinessLayer.CommonFunctionBL
     Dim intProductId As Integer
-    Dim status As String
-    Dim Retail As Integer
-    Public Shared vaInsertionOrUpdation As String 'This variable is used for select the Insertion/Updation
 
-    Dim sqlreader As SqlDataReader
 #Region "Form Permission Variables"
     '  Form Permission Variables Start Here
     Dim objPermissionsBL As New clsPermissionBL
@@ -50,9 +43,36 @@ Public Class frmAddProduct
         sqlReader.Close()
 
     End Sub
-
     Public Sub addToList() Implements KOSLibraries.IFormInterface.addToList
+        If (sqlreader.HasRows = True) Then
+            Dim SLNo As Integer = 1
+            Dim arraylist(15) As String
+            While (sqlreader.Read)
+                arraylist(0) = sqlreader!pkSupplierID
+                arraylist(1) = sqlreader!pkCompanyID
+                arraylist(2) = sqlreader!fkLine
+                arraylist(3) = sqlreader!pkProductID
+                arraylist(4) = SLNo
+                arraylist(5) = sqlreader!ProductName
+                arraylist(6) = sqlreader!BuyPrice
+                arraylist(7) = sqlreader!SellPrice
+                arraylist(8) = sqlreader!Barcode
+                If (sqlreader!Retail = 1) Then
+                    arraylist(8) = "Yes"
+                Else
+                    arraylist(8) = "No"
+                End If
 
+                arraylist(10) = sqlreader!Active
+
+                Dim objList As New ListViewItem(arraylist)
+                LstvProducts.Items.Add(objList)
+                SLNo += 1
+            End While
+        Else
+            BL.ShowMessageBox.toGeneralInformation("Details Not Found")
+        End If
+        sqlreader.Close()
     End Sub
 
     Public Sub deleteList() Implements KOSLibraries.IFormInterface.deleteList
@@ -120,7 +140,7 @@ Public Class frmAddProduct
     End Sub
 
     Public Sub toLoad() Implements KOSLibraries.IFormInterface.toLoad
-        Call toSetFormName("Add Product")
+        Call toSetFormName("Search Product")
 
         Call FetchFormPermissionOfAUser(Me.Name, BL.PublicVariables.gintUserGroupID)
 
@@ -129,24 +149,69 @@ Public Class frmAddProduct
             Me.BeginInvoke(New MethodInvoker(AddressOf Me.Close))
         End If
 
-        If (vaInsertionOrUpdation = "Insertion") Then
-
-            toShowOrHideButtons(True, False, False, False)
-
-        Else
-            toShowOrHideButtons(False, True, False, False)
-
-        End If
+        ChkActive.Checked = True
 
         Call FetchActiveSupplier()
-       
-        
     End Sub
+
+    Public Sub toPrint() Implements KOSLibraries.IFormInterface.toPrint
+
+    End Sub
+
+    Public Sub toRefresh() Implements KOSLibraries.IFormInterface.toRefresh
+
+    End Sub
+
+    Public Sub toSave() Implements KOSLibraries.IFormInterface.toSave
+
+    End Sub
+
+    Public Sub toSearch() Implements KOSLibraries.IFormInterface.toSearch
+
+    End Sub
+
+    Public Sub toUpdate() Implements KOSLibraries.IFormInterface.toUpdate
+
+    End Sub
+
+    Private Sub ViewDetailsToolStripMenuItem_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles ViewDetailsToolStripMenuItem.Click
+        If (LstvProducts.SelectedItems.Count > 0) Then
+
+
+            BL.PublicVariables.gintClientId = Convert.ToInt32(LstvProducts.SelectedItems(0).SubItems(0).Text)
+
+            frmAddProduct.MdiParent = Me.MdiParent
+            frmAddProduct.Show()
+            frmAddProduct.vaInsertionOrUpdation = "Updation"
+
+
+            frmAddProduct.toLoad()
+
+            frmAddProduct.TextBoxBind(Convert.ToInt32(LstvProducts.SelectedItems(0).SubItems(3).Text))
+
+            Me.Close()
+        End If
+    End Sub
+
+    Private Sub frmSearchProduct_Load(ByVal sender As Object, ByVal e As System.EventArgs) Handles Me.Load
+        Call toLoad()
+    End Sub
+
+   
+    Private Sub cmbSupplier_SelectedIndexChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles cmbSupplier.SelectedIndexChanged
+        Call FetchActiveCompaniesBasedonSupplier()
+
+    End Sub
+
+    Private Sub cmbCompany_SelectedIndexChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles cmbCompany.SelectedIndexChanged
+        Call FetchActiveLinesBasedonCompany()
+    End Sub
+
     'To load combobox with active suppliers 
 
     Public Sub FetchActiveSupplier()
 
-        sqlreader = objProductBL.FetchActiveSupplier
+        sqlreader = objSearchProductBL.FetchActiveSupplier
         If (sqlreader.HasRows = True) Then
             While (sqlreader.Read)
 
@@ -161,7 +226,7 @@ Public Class frmAddProduct
 
     Public Sub FetchActiveCompaniesBasedonSupplier()
 
-        sqlreader = objProductBL.FetchActiveCompaniesBasedonSupplier(CType(cmbSupplier.SelectedItem, ValueAndTextBL).Value)
+        sqlreader = objSearchProductBL.FetchActiveCompaniesBasedonSupplier(CType(cmbSupplier.SelectedItem, ValueAndTextBL).Value)
         If (sqlreader.HasRows = True) Then
             While (sqlreader.Read)
 
@@ -175,7 +240,7 @@ Public Class frmAddProduct
     'To load combobox with active lines based on selecting companies
     Public Sub FetchActiveLinesBasedonCompany()
 
-        sqlreader = objProductBL.FetchActiveLinesBasedonCompanies(CType(cmbCompany.SelectedItem, ValueAndTextBL).Value)
+        sqlreader = objSearchProductBL.FetchActiveLinesBasedonCompanies(CType(cmbCompany.SelectedItem, ValueAndTextBL).Value)
         If (sqlreader.HasRows = True) Then
             While (sqlreader.Read)
 
@@ -186,103 +251,16 @@ Public Class frmAddProduct
         End If
         sqlreader.Close()
     End Sub
-    Public Sub toPrint() Implements KOSLibraries.IFormInterface.toPrint
 
-    End Sub
-
-    Public Sub toRefresh() Implements KOSLibraries.IFormInterface.toRefresh
-
-    End Sub
-
-    Public Sub toSave() Implements KOSLibraries.IFormInterface.toSave
-        Dim sqlreaderDuplication As SqlClient.SqlDataReader = objCommonBL.commonFetchBasesdOnTwoConditions("[dbo].[Product]", "Barcode", TbBarcode.Text, "Active", "Yes", "pkProductID,ProductName")
-        If (sqlreaderDuplication.HasRows) Then
-            BL.ShowMessageBox.toGeneralInformation("This Barcode " & TbBarcode.Text & "already exists.Please Check")
-            Exit Sub
+    
+    Private Sub BtnSearch_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles BtnSearch.Click
+        If ChkActive.Checked = True Then
+            sqlreader = objSearchProductBL.ViewProductDetailsBasedonStatus(intProductId, "Yes")
+            
         Else
-
-            If (isMandatoryFieldsCompleted() = False) Then
-
-            Else
-                objProductBL.InsertProduct(CType(cmbCompany.SelectedItem, ValueAndTextBL).Value, TbProductName.Text, TbProductcode.Text, TbBarcode.Text, Convert.ToInt32(TbBuyPrice.Text), Convert.ToInt32(TbSellPrice.Text), Retail, status)
-                MsgBox("Product" & TbProductName.Text & " are Saved Successfully.")
-                Call toClear()
-
-            End If
+            sqlreader = objSearchProductBL.ViewProductDetailsBasedonStatus(intProductId, "No")
+            
         End If
+        Call addToList()
     End Sub
-
-    Public Sub toSearch() Implements KOSLibraries.IFormInterface.toSearch
-
-    End Sub
-
-    Public Sub toUpdate() Implements KOSLibraries.IFormInterface.toUpdate
-
-    End Sub
-
-    Private Sub frmAddProduct_Load(ByVal sender As Object, ByVal e As System.EventArgs) Handles Me.Load
-        vaInsertionOrUpdation = "Insertion"
-        Call toLoad()
-    End Sub
-
-    Private Sub frmAddProduct_SaveClick() Handles Me.SaveClick
-        Call toSave()
-    End Sub
-
-    Private Sub frmAddProduct_UpdateClick() Handles Me.UpdateClick
-        Call toUpdate()
-    End Sub
-
-    'Bind Details to Text Box in Updation Time
-    Public Sub TextBoxBind(ByVal intProductId As Integer)
-
-        cmbCompany.Enabled = False
-        cmbLine.Enabled = False
-        cmbSupplier.Enabled = False
-
-        sqlreader = objProductBL.ViewProductInfo(intProductId)
-        Call toClear()
-        If (sqlreader.HasRows = True) Then
-            While (sqlreader.Read())
-              
-                TbProductName.Text = sqlreader!ProductName
-                TbProductcode.Text = sqlreader!ProductCode
-                TbBarcode.Text = sqlreader!Barcode
-                If (sqlreader!Retail = 1) Then
-                    ChckRetail.Checked = True
-                Else
-                    ChckRetail.Checked = True = False
-                End If
-                If (sqlreader!Active = "Yes") Then
-                    ChckActive.Checked = True
-                Else
-
-                    ChckActive.Checked = False
-                End If
-
-                cmbSupplier.SelectedValue = sqlreader!fkNationalityId
-                cmbCompany.SelectedValue = sqlreader!fkNationalityId
-                TbBuyPrice.Text = sqlreader!BuyPrice
-                TbSellPrice.Text = sqlreader!SellPrice
-                TbOnStock.Text = sqlreader!Stock
-                TbOnOrder.Text = sqlreader!OnOrder
-                TbRequired.Text = sqlreader!Required
-                NupReorder.Value = sqlreader!Reorder
-                NupWarning.Value = sqlreader!Warning
-                
-            End While
-        End If
-    End Sub
-
-    Private Sub cmbSupplier_SelectedIndexChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles cmbSupplier.SelectedIndexChanged
-        Call FetchActiveCompaniesBasedonSupplier()
-
-    End Sub
-
-    Private Sub cmbCompany_SelectedIndexChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles cmbCompany.SelectedIndexChanged
-        Call FetchActiveLinesBasedonCompany()
-    End Sub
-
-   
->>>>>>> 57e926f7803205f0c2a28bccd80dd178f7d7a123
 End Class

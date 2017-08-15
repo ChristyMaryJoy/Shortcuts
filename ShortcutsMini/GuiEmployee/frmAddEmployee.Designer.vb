@@ -87,10 +87,12 @@ Partial Class FrmAddEmployee
         '
         'GroupBox1
         '
+        Me.GroupBox1.BackColor = System.Drawing.Color.LightGray
         Me.GroupBox1.Controls.Add(Me.GroupBox5)
         Me.GroupBox1.Controls.Add(Me.GroupBox4)
         Me.GroupBox1.Controls.Add(Me.GroupBox3)
         Me.GroupBox1.Controls.Add(Me.GroupBox2)
+        Me.GroupBox1.ForeColor = System.Drawing.Color.Black
         Me.GroupBox1.Location = New System.Drawing.Point(12, 11)
         Me.GroupBox1.Name = "GroupBox1"
         Me.GroupBox1.Size = New System.Drawing.Size(806, 486)
@@ -107,7 +109,7 @@ Partial Class FrmAddEmployee
         Me.GroupBox5.Size = New System.Drawing.Size(258, 192)
         Me.GroupBox5.TabIndex = 20
         Me.GroupBox5.TabStop = False
-        Me.GroupBox5.Text = "es"
+        Me.GroupBox5.Text = "Access Location"
         '
         'CmbLocation
         '
@@ -644,8 +646,10 @@ Partial Class FrmAddEmployee
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
+        Me.BackColor = System.Drawing.Color.LightGray
         Me.ClientSize = New System.Drawing.Size(830, 560)
         Me.Controls.Add(Me.GroupBox1)
+        Me.ForeColor = System.Drawing.Color.LightGray
         Me.Name = "FrmAddEmployee"
         Me.Text = "FrmAddStaff"
         Me.Controls.SetChildIndex(Me.GroupBox1, 0)

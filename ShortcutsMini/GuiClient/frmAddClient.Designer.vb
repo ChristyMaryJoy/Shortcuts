@@ -31,6 +31,8 @@ Partial Class frmAddClient
         Me.TbNote = New System.Windows.Forms.TextBox
         Me.lblClubmembershipNo = New System.Windows.Forms.Label
         Me.GroupBox3 = New System.Windows.Forms.GroupBox
+        Me.Txtage = New System.Windows.Forms.TextBox
+        Me.Label13 = New System.Windows.Forms.Label
         Me.Label12 = New System.Windows.Forms.Label
         Me.CmbOccupation = New System.Windows.Forms.ComboBox
         Me.Label11 = New System.Windows.Forms.Label
@@ -68,8 +70,6 @@ Partial Class frmAddClient
         Me.CmbCountry = New System.Windows.Forms.ComboBox
         Me.LblNationality = New System.Windows.Forms.Label
         Me.RibbonComboBox1 = New System.Windows.Forms.RibbonComboBox
-        Me.Label13 = New System.Windows.Forms.Label
-        Me.Txtage = New System.Windows.Forms.TextBox
         Me.GroupBox1.SuspendLayout()
         Me.GroupBox4.SuspendLayout()
         Me.GroupBox3.SuspendLayout()
@@ -142,7 +142,7 @@ Partial Class frmAddClient
         Me.TbNote.Multiline = True
         Me.TbNote.Name = "TbNote"
         Me.TbNote.ScrollBars = System.Windows.Forms.ScrollBars.Vertical
-        Me.TbNote.Size = New System.Drawing.Size(232, 79)
+        Me.TbNote.Size = New System.Drawing.Size(232, 169)
         Me.TbNote.TabIndex = 22
         '
         'lblClubmembershipNo
@@ -182,6 +182,22 @@ Partial Class frmAddClient
         Me.GroupBox3.Size = New System.Drawing.Size(269, 424)
         Me.GroupBox3.TabIndex = 16
         Me.GroupBox3.TabStop = False
+        '
+        'Txtage
+        '
+        Me.Txtage.Location = New System.Drawing.Point(19, 241)
+        Me.Txtage.Name = "Txtage"
+        Me.Txtage.Size = New System.Drawing.Size(58, 20)
+        Me.Txtage.TabIndex = 49
+        '
+        'Label13
+        '
+        Me.Label13.AutoSize = True
+        Me.Label13.Location = New System.Drawing.Point(20, 227)
+        Me.Label13.Name = "Label13"
+        Me.Label13.Size = New System.Drawing.Size(26, 13)
+        Me.Label13.TabIndex = 48
+        Me.Label13.Text = "Age"
         '
         'Label12
         '
@@ -420,7 +436,7 @@ Partial Class frmAddClient
         '
         'TbCivilID
         '
-        Me.TbCivilID.Location = New System.Drawing.Point(6, 283)
+        Me.TbCivilID.Location = New System.Drawing.Point(10, 283)
         Me.TbCivilID.Name = "TbCivilID"
         Me.TbCivilID.Size = New System.Drawing.Size(237, 20)
         Me.TbCivilID.TabIndex = 21
@@ -529,22 +545,6 @@ Partial Class frmAddClient
         Me.RibbonComboBox1.ToolTip = Nothing
         Me.RibbonComboBox1.ToolTipImage = Nothing
         Me.RibbonComboBox1.ToolTipTitle = Nothing
-        '
-        'Label13
-        '
-        Me.Label13.AutoSize = True
-        Me.Label13.Location = New System.Drawing.Point(20, 227)
-        Me.Label13.Name = "Label13"
-        Me.Label13.Size = New System.Drawing.Size(26, 13)
-        Me.Label13.TabIndex = 48
-        Me.Label13.Text = "Age"
-        '
-        'Txtage
-        '
-        Me.Txtage.Location = New System.Drawing.Point(19, 241)
-        Me.Txtage.Name = "Txtage"
-        Me.Txtage.Size = New System.Drawing.Size(58, 20)
-        Me.Txtage.TabIndex = 49
         '
         'frmAddClient
         '

@@ -81,6 +81,7 @@ D:\ShortcutsMini Project Plans\Shortcuts03082017\ShortcutsMini\ShortcutsMini\obj
 D:\ShortcutsMini Project Plans\Shortcuts03082017\ShortcutsMini\ShortcutsMini\obj\Debug\ShortcutsMini.exe
 D:\ShortcutsMini Project Plans\Shortcuts03082017\ShortcutsMini\ShortcutsMini\obj\Debug\ShortcutsMini.xml
 D:\ShortcutsMini Project Plans\Shortcuts03082017\ShortcutsMini\ShortcutsMini\obj\Debug\ShortcutsMini.pdb
+<<<<<<< HEAD
 G:\ShortcutsMini07082017\ShortcutsMini\bin\Debug\ShortcutsMini.exe
 G:\ShortcutsMini07082017\ShortcutsMini\bin\Debug\ShortcutsMini.pdb
 G:\ShortcutsMini07082017\ShortcutsMini\bin\Debug\ShortcutsMini.xml
@@ -114,6 +115,7 @@ G:\ShortcutsMini07082017\ShortcutsMini\obj\Debug\ShortcutsMini.pdb
 C:\Users\ShemeerOveli\Documents\GitHub\Shortcuts\ShortcutsMini\obj\Debug\ShortcutsMini.exe
 C:\Users\ShemeerOveli\Documents\GitHub\Shortcuts\ShortcutsMini\obj\Debug\ShortcutsMini.xml
 C:\Users\ShemeerOveli\Documents\GitHub\Shortcuts\ShortcutsMini\obj\Debug\ShortcutsMini.pdb
+<<<<<<< HEAD
 C:\Users\ShemeerOveli\Documents\GitHub\Shortcuts\ShortcutsMini\bin\Debug\ShortcutsMini.exe
 C:\Users\ShemeerOveli\Documents\GitHub\Shortcuts\ShortcutsMini\bin\Debug\ShortcutsMini.pdb
 C:\Users\ShemeerOveli\Documents\GitHub\Shortcuts\ShortcutsMini\bin\Debug\ShortcutsMini.xml
@@ -142,3 +144,10 @@ C:\Users\ShemeerOveli\Documents\GitHub\Shortcuts\ShortcutsMini\obj\Debug\Shortcu
 C:\Users\ShemeerOveli\Documents\GitHub\Shortcuts\ShortcutsMini\obj\Debug\ShortcutsMini.vbproj.GenerateResource.Cache
 C:\Users\ShemeerOveli\Documents\GitHub\Shortcuts\ShortcutsMini\obj\Debug\en\ShortcutsMini.resources.dll
 C:\Users\ShemeerOveli\Documents\GitHub\Shortcuts\ShortcutsMini\obj\Debug\ii-CN\ShortcutsMini.resources.dll
+=======
+G:\Github2017\Shortcuts\ShortcutsMini\obj\Debug\ShortcutsMini.exe
+G:\Github2017\Shortcuts\ShortcutsMini\obj\Debug\ShortcutsMini.xml
+G:\Github2017\Shortcuts\ShortcutsMini\obj\Debug\ShortcutsMini.pdb
+=======
+>>>>>>> 57e926f7803205f0c2a28bccd80dd178f7d7a123
+>>>>>>> fc1a3a3c68d8ee575949c5b3281f22ed550c1c53
