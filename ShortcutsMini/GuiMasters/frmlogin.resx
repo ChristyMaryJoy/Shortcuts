@@ -624,9 +624,12 @@
   <data name="PicbLogin.TabIndex" type="System.Int32, mscorlib">
     <value>7</value>
   </data>
+<<<<<<< HEAD
+=======
   <data name="GroupBox2.TabIndex" type="System.Int32, mscorlib">
     <value>2</value>
   </data>
+>>>>>>> fc1a3a3c68d8ee575949c5b3281f22ed550c1c53
   <data name="&gt;&gt;TbUserName.Type" xml:space="preserve">
     <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>

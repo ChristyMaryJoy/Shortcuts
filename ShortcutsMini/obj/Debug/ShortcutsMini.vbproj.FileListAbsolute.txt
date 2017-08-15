@@ -115,8 +115,39 @@ G:\ShortcutsMini07082017\ShortcutsMini\obj\Debug\ShortcutsMini.pdb
 C:\Users\ShemeerOveli\Documents\GitHub\Shortcuts\ShortcutsMini\obj\Debug\ShortcutsMini.exe
 C:\Users\ShemeerOveli\Documents\GitHub\Shortcuts\ShortcutsMini\obj\Debug\ShortcutsMini.xml
 C:\Users\ShemeerOveli\Documents\GitHub\Shortcuts\ShortcutsMini\obj\Debug\ShortcutsMini.pdb
+<<<<<<< HEAD
+C:\Users\ShemeerOveli\Documents\GitHub\Shortcuts\ShortcutsMini\bin\Debug\ShortcutsMini.exe
+C:\Users\ShemeerOveli\Documents\GitHub\Shortcuts\ShortcutsMini\bin\Debug\ShortcutsMini.pdb
+C:\Users\ShemeerOveli\Documents\GitHub\Shortcuts\ShortcutsMini\bin\Debug\ShortcutsMini.xml
+C:\Users\ShemeerOveli\Documents\GitHub\Shortcuts\ShortcutsMini\bin\Debug\en\ShortcutsMini.resources.dll
+C:\Users\ShemeerOveli\Documents\GitHub\Shortcuts\ShortcutsMini\bin\Debug\ii-CN\ShortcutsMini.resources.dll
+C:\Users\ShemeerOveli\Documents\GitHub\Shortcuts\ShortcutsMini\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ShemeerOveli\Documents\GitHub\Shortcuts\ShortcutsMini\obj\Debug\ShortcutsMini.Form1.resources
+C:\Users\ShemeerOveli\Documents\GitHub\Shortcuts\ShortcutsMini\obj\Debug\ShortcutsMini.frmAddPackageService.resources
+C:\Users\ShemeerOveli\Documents\GitHub\Shortcuts\ShortcutsMini\obj\Debug\ShortcutsMini.frmAddSeriesService.resources
+C:\Users\ShemeerOveli\Documents\GitHub\Shortcuts\ShortcutsMini\obj\Debug\ShortcutsMini.frmAddServiceCategory.resources
+C:\Users\ShemeerOveli\Documents\GitHub\Shortcuts\ShortcutsMini\obj\Debug\ShortcutsMini.frmAddServices.resources
+C:\Users\ShemeerOveli\Documents\GitHub\Shortcuts\ShortcutsMini\obj\Debug\ShortcutsMini.frmAddClient.resources
+C:\Users\ShemeerOveli\Documents\GitHub\Shortcuts\ShortcutsMini\obj\Debug\ShortcutsMini.frmClientSearch.resources
+C:\Users\ShemeerOveli\Documents\GitHub\Shortcuts\ShortcutsMini\obj\Debug\ShortcutsMini.frmAddCompany.resources
+C:\Users\ShemeerOveli\Documents\GitHub\Shortcuts\ShortcutsMini\obj\Debug\ShortcutsMini.frmAddLine.resources
+C:\Users\ShemeerOveli\Documents\GitHub\Shortcuts\ShortcutsMini\obj\Debug\ShortcutsMini.frmAddSupplier.resources
+C:\Users\ShemeerOveli\Documents\GitHub\Shortcuts\ShortcutsMini\obj\Debug\ShortcutsMini.frmAddProduct.resources
+C:\Users\ShemeerOveli\Documents\GitHub\Shortcuts\ShortcutsMini\obj\Debug\ShortcutsMini.frmAddUserType.resources
+C:\Users\ShemeerOveli\Documents\GitHub\Shortcuts\ShortcutsMini\obj\Debug\ShortcutsMini.frmIndex.resources
+C:\Users\ShemeerOveli\Documents\GitHub\Shortcuts\ShortcutsMini\obj\Debug\ShortcutsMini.frmlogin.resources
+C:\Users\ShemeerOveli\Documents\GitHub\Shortcuts\ShortcutsMini\obj\Debug\ShortcutsMini.FrmAddEmployee.resources
+C:\Users\ShemeerOveli\Documents\GitHub\Shortcuts\ShortcutsMini\obj\Debug\ShortcutsMini.frmEmployeeSearch.resources
+C:\Users\ShemeerOveli\Documents\GitHub\Shortcuts\ShortcutsMini\obj\Debug\ShortcutsMini.Resources.resources
+C:\Users\ShemeerOveli\Documents\GitHub\Shortcuts\ShortcutsMini\obj\Debug\ShortcutsMini.frmlogin.en.resources
+C:\Users\ShemeerOveli\Documents\GitHub\Shortcuts\ShortcutsMini\obj\Debug\ShortcutsMini.frmlogin.ii-CN.resources
+C:\Users\ShemeerOveli\Documents\GitHub\Shortcuts\ShortcutsMini\obj\Debug\ShortcutsMini.vbproj.GenerateResource.Cache
+C:\Users\ShemeerOveli\Documents\GitHub\Shortcuts\ShortcutsMini\obj\Debug\en\ShortcutsMini.resources.dll
+C:\Users\ShemeerOveli\Documents\GitHub\Shortcuts\ShortcutsMini\obj\Debug\ii-CN\ShortcutsMini.resources.dll
+=======
 G:\Github2017\Shortcuts\ShortcutsMini\obj\Debug\ShortcutsMini.exe
 G:\Github2017\Shortcuts\ShortcutsMini\obj\Debug\ShortcutsMini.xml
 G:\Github2017\Shortcuts\ShortcutsMini\obj\Debug\ShortcutsMini.pdb
 =======
 >>>>>>> 57e926f7803205f0c2a28bccd80dd178f7d7a123
+>>>>>>> fc1a3a3c68d8ee575949c5b3281f22ed550c1c53
