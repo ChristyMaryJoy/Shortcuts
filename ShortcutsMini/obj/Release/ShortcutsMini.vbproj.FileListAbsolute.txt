@@ -352,3 +352,5 @@ D:\ShortcutsMini Project Plans\Shortcuts14082017\ShortcutsMini\ShortcutsMini\bin
 D:\ShortcutsMini Project Plans\Shortcuts14082017\ShortcutsMini\ShortcutsMini\bin\Release\ii-CN\ShortcutsMini.resources.dll
 D:\ShortcutsMini Project Plans\Shortcuts14082017\ShortcutsMini\ShortcutsMini\obj\Release\ii-CN\ShortcutsMini.resources.dll
 >>>>>>> 57e926f7803205f0c2a28bccd80dd178f7d7a123
+G:\Github2017\Shortcuts\ShortcutsMini\obj\Release\ShortcutsMini.frmProductOrder.resources
+G:\Github2017\Shortcuts\ShortcutsMini\obj\Release\ShortcutsMini.frmSearchProduct.resources
