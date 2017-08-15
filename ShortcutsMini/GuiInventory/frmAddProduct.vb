@@ -3,11 +3,6 @@ Imports System.Data.SqlClient
 Public Class frmAddProduct
     Inherits KOSLibraries.KOSForm
 
-<<<<<<< HEAD
-    Private Sub TextBox7_TextChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles TextBox7.TextChanged
-
-    End Sub
-=======
     Implements KOSLibraries.IFormInterface
 
 
@@ -284,5 +279,5 @@ Public Class frmAddProduct
     End Sub
 
    
->>>>>>> 57e926f7803205f0c2a28bccd80dd178f7d7a123
+
 End Class

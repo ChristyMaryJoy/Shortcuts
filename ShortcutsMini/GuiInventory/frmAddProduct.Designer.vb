@@ -22,6 +22,8 @@ Partial Class frmAddProduct
     'Do not modify it using the code editor.
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
+
+
         Me.GroupBox2 = New System.Windows.Forms.GroupBox
         Me.GroupBox4 = New System.Windows.Forms.GroupBox
         Me.TbBuyPrice = New System.Windows.Forms.TextBox
@@ -338,7 +340,7 @@ Partial Class frmAddProduct
         '
         'TextBox6
         '
-<<<<<<< HEAD
+
         Me.Label1.AutoSize = True
         Me.Label1.Location = New System.Drawing.Point(5, 67)
         Me.Label1.Margin = New System.Windows.Forms.Padding(2, 0, 2, 0)
@@ -346,13 +348,13 @@ Partial Class frmAddProduct
         Me.Label1.Size = New System.Drawing.Size(43, 13)
         Me.Label1.TabIndex = 4
         Me.Label1.Text = "change"
-=======
+
         Me.TextBox6.Location = New System.Drawing.Point(12, 243)
         Me.TextBox6.Margin = New System.Windows.Forms.Padding(2)
         Me.TextBox6.Name = "TextBox6"
         Me.TextBox6.Size = New System.Drawing.Size(234, 20)
         Me.TextBox6.TabIndex = 24
->>>>>>> 57e926f7803205f0c2a28bccd80dd178f7d7a123
+
         '
         'TbProductcode
         '
