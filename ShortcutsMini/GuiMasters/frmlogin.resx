@@ -124,8 +124,8 @@
   <data name="BtnLogin.Size" type="System.Drawing.Size, System.Drawing">
     <value>89, 40</value>
   </data>
-  <data name="&gt;&gt;PicbLogin.Name" xml:space="preserve">
-    <value>PicbLogin</value>
+  <data name="&gt;&gt;Cmblocation.Name" xml:space="preserve">
+    <value>Cmblocation</value>
   </data>
   <data name="&gt;&gt;Cmblocation.ZOrder" xml:space="preserve">
     <value>0</value>
@@ -400,6 +400,9 @@
   <data name="&gt;&gt;TbUserName.ZOrder" xml:space="preserve">
     <value>1</value>
   </data>
+  <data name="&gt;&gt;PicbLogin.Name" xml:space="preserve">
+    <value>PicbLogin</value>
+  </data>
   <data name="&gt;&gt;TbPassword.Type" xml:space="preserve">
     <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
@@ -504,9 +507,6 @@
   </data>
   <data name="PicbLogin.TabIndex" type="System.Int32, mscorlib">
     <value>7</value>
-  </data>
-  <data name="&gt;&gt;Cmblocation.Name" xml:space="preserve">
-    <value>Cmblocation</value>
   </data>
   <data name="&gt;&gt;TbUserName.Type" xml:space="preserve">
     <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
