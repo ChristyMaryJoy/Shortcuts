@@ -190,7 +190,7 @@ Public Class frmAddClient
         End If
 
 
-        If (BL.PublicVariables.vaInsertionOrUpdation = "Insertion") Then
+        If (vaInsertionOrUpdation = "Insertion") Then
 
             toShowOrHideButtons(True, False, False, False)
 
@@ -401,7 +401,7 @@ Public Class frmAddClient
     End Sub
 
     Private Sub frmAddClient_Load(ByVal sender As Object, ByVal e As System.EventArgs) Handles Me.Load
-        BL.PublicVariables.vaInsertionOrUpdation = "Insertion"
+        vaInsertionOrUpdation = "Insertion"
         Call toLoad()
     End Sub
 

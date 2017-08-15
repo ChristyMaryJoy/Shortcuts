@@ -30,15 +30,15 @@ Partial Class frmEmployeeSearch
         Me.ColumnHeader3 = New System.Windows.Forms.ColumnHeader
         Me.ColumnHeader4 = New System.Windows.Forms.ColumnHeader
         Me.ColumnHeader6 = New System.Windows.Forms.ColumnHeader
+        Me.ColumnHeader7 = New System.Windows.Forms.ColumnHeader
+        Me.ColumnHeader8 = New System.Windows.Forms.ColumnHeader
+        Me.ColumnHeader5 = New System.Windows.Forms.ColumnHeader
         Me.GroupBox2 = New System.Windows.Forms.GroupBox
         Me.ChkSearchAll = New System.Windows.Forms.CheckBox
         Me.BtnSearch = New System.Windows.Forms.Button
         Me.TbSearch = New System.Windows.Forms.TextBox
         Me.ChkMobileNumber = New System.Windows.Forms.CheckBox
         Me.Chkname = New System.Windows.Forms.CheckBox
-        Me.ColumnHeader7 = New System.Windows.Forms.ColumnHeader
-        Me.ColumnHeader8 = New System.Windows.Forms.ColumnHeader
-        Me.ColumnHeader5 = New System.Windows.Forms.ColumnHeader
         Me.GroupBox1.SuspendLayout()
         Me.GroupBox3.SuspendLayout()
         Me.GroupBox2.SuspendLayout()
@@ -103,6 +103,22 @@ Partial Class frmEmployeeSearch
         Me.ColumnHeader6.Text = "Active"
         Me.ColumnHeader6.Width = 77
         '
+        'ColumnHeader7
+        '
+        Me.ColumnHeader7.DisplayIndex = 2
+        Me.ColumnHeader7.Text = "Gender"
+        '
+        'ColumnHeader8
+        '
+        Me.ColumnHeader8.Text = "DateOfJoining"
+        Me.ColumnHeader8.Width = 110
+        '
+        'ColumnHeader5
+        '
+        Me.ColumnHeader5.DisplayIndex = 5
+        Me.ColumnHeader5.Text = "Location"
+        Me.ColumnHeader5.Width = 91
+        '
         'GroupBox2
         '
         Me.GroupBox2.Controls.Add(Me.ChkSearchAll)
@@ -129,7 +145,7 @@ Partial Class frmEmployeeSearch
         '
         'BtnSearch
         '
-        Me.BtnSearch.Location = New System.Drawing.Point(668, 43)
+        Me.BtnSearch.Location = New System.Drawing.Point(661, 28)
         Me.BtnSearch.Name = "BtnSearch"
         Me.BtnSearch.Size = New System.Drawing.Size(75, 35)
         Me.BtnSearch.TabIndex = 4
@@ -163,29 +179,13 @@ Partial Class frmEmployeeSearch
         Me.Chkname.Text = "Name"
         Me.Chkname.UseVisualStyleBackColor = True
         '
-        'ColumnHeader7
-        '
-        Me.ColumnHeader7.DisplayIndex = 2
-        Me.ColumnHeader7.Text = "Gender"
-        '
-        'ColumnHeader8
-        '
-        Me.ColumnHeader8.Text = "DateOfJoining"
-        Me.ColumnHeader8.Width = 110
-        '
-        'ColumnHeader5
-        '
-        Me.ColumnHeader5.DisplayIndex = 5
-        Me.ColumnHeader5.Text = "Location"
-        Me.ColumnHeader5.Width = 91
-        '
-        'frmStaffSearch
+        'frmEmployeeSearch
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(814, 522)
         Me.Controls.Add(Me.GroupBox1)
-        Me.Name = "frmStaffSearch"
+        Me.Name = "frmEmployeeSearch"
         Me.Text = "frmStaffSearch"
         Me.GroupBox1.ResumeLayout(False)
         Me.GroupBox3.ResumeLayout(False)

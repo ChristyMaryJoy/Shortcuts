@@ -27,11 +27,11 @@ Partial Class frmlogin
         Me.Cmblocation = New System.Windows.Forms.ComboBox
         Me.TbUserName = New System.Windows.Forms.TextBox
         Me.BtnLogin = New System.Windows.Forms.Button
+        Me.PicbLogin = New System.Windows.Forms.PictureBox
         Me.TbPassword = New System.Windows.Forms.TextBox
         Me.LblLocation = New System.Windows.Forms.Label
         Me.LblPassword = New System.Windows.Forms.Label
         Me.LblUsername = New System.Windows.Forms.Label
-        Me.PicbLogin = New System.Windows.Forms.PictureBox
         Me.GroupBox2.SuspendLayout()
         CType(Me.PicbLogin, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
@@ -84,6 +84,18 @@ Partial Class frmlogin
         Me.BtnLogin.Name = "BtnLogin"
         Me.BtnLogin.UseVisualStyleBackColor = False
         '
+        'PicbLogin
+        '
+        Me.PicbLogin.AccessibleDescription = Nothing
+        Me.PicbLogin.AccessibleName = Nothing
+        resources.ApplyResources(Me.PicbLogin, "PicbLogin")
+        Me.PicbLogin.BackgroundImage = Nothing
+        Me.PicbLogin.Font = Nothing
+        Me.PicbLogin.ImageLocation = Nothing
+        Me.PicbLogin.InitialImage = Nothing
+        Me.PicbLogin.Name = "PicbLogin"
+        Me.PicbLogin.TabStop = False
+        '
         'TbPassword
         '
         Me.TbPassword.AccessibleDescription = Nothing
@@ -116,18 +128,6 @@ Partial Class frmlogin
         resources.ApplyResources(Me.LblUsername, "LblUsername")
         Me.LblUsername.Font = Nothing
         Me.LblUsername.Name = "LblUsername"
-        '
-        'PicbLogin
-        '
-        Me.PicbLogin.AccessibleDescription = Nothing
-        Me.PicbLogin.AccessibleName = Nothing
-        resources.ApplyResources(Me.PicbLogin, "PicbLogin")
-        Me.PicbLogin.BackgroundImage = Nothing
-        Me.PicbLogin.Font = Nothing
-        Me.PicbLogin.ImageLocation = Nothing
-        Me.PicbLogin.InitialImage = Nothing
-        Me.PicbLogin.Name = "PicbLogin"
-        Me.PicbLogin.TabStop = False
         '
         'frmlogin
         '

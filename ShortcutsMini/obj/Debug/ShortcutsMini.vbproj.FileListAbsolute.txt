@@ -81,36 +81,3 @@ D:\ShortcutsMini Project Plans\Shortcuts03082017\ShortcutsMini\ShortcutsMini\obj
 D:\ShortcutsMini Project Plans\Shortcuts03082017\ShortcutsMini\ShortcutsMini\obj\Debug\ShortcutsMini.exe
 D:\ShortcutsMini Project Plans\Shortcuts03082017\ShortcutsMini\ShortcutsMini\obj\Debug\ShortcutsMini.xml
 D:\ShortcutsMini Project Plans\Shortcuts03082017\ShortcutsMini\ShortcutsMini\obj\Debug\ShortcutsMini.pdb
-G:\ShortcutsMini07082017\ShortcutsMini\bin\Debug\ShortcutsMini.exe
-G:\ShortcutsMini07082017\ShortcutsMini\bin\Debug\ShortcutsMini.pdb
-G:\ShortcutsMini07082017\ShortcutsMini\bin\Debug\ShortcutsMini.xml
-G:\ShortcutsMini07082017\ShortcutsMini\bin\Debug\ii-CN\ShortcutsMini.resources.dll
-G:\ShortcutsMini07082017\ShortcutsMini\bin\Debug\KOSLibraries.dll
-G:\ShortcutsMini07082017\ShortcutsMini\bin\Debug\System.Windows.Forms.Ribbon.dll
-G:\ShortcutsMini07082017\ShortcutsMini\obj\Debug\ResolveAssemblyReference.cache
-G:\ShortcutsMini07082017\ShortcutsMini\obj\Debug\ShortcutsMini.Form1.resources
-G:\ShortcutsMini07082017\ShortcutsMini\obj\Debug\ShortcutsMini.frmAddPackageService.resources
-G:\ShortcutsMini07082017\ShortcutsMini\obj\Debug\ShortcutsMini.frmAddSeriesService.resources
-G:\ShortcutsMini07082017\ShortcutsMini\obj\Debug\ShortcutsMini.frmAddServiceCategory.resources
-G:\ShortcutsMini07082017\ShortcutsMini\obj\Debug\ShortcutsMini.frmAddServices.resources
-G:\ShortcutsMini07082017\ShortcutsMini\obj\Debug\ShortcutsMini.frmAddClient.resources
-G:\ShortcutsMini07082017\ShortcutsMini\obj\Debug\ShortcutsMini.frmClientSearch.resources
-G:\ShortcutsMini07082017\ShortcutsMini\obj\Debug\ShortcutsMini.frmAddCompany.resources
-G:\ShortcutsMini07082017\ShortcutsMini\obj\Debug\ShortcutsMini.frmAddLine.resources
-G:\ShortcutsMini07082017\ShortcutsMini\obj\Debug\ShortcutsMini.frmAddSupplier.resources
-G:\ShortcutsMini07082017\ShortcutsMini\obj\Debug\ShortcutsMini.frmAddProduct.resources
-G:\ShortcutsMini07082017\ShortcutsMini\obj\Debug\ShortcutsMini.frmAddUserType.resources
-G:\ShortcutsMini07082017\ShortcutsMini\obj\Debug\ShortcutsMini.frmIndex.resources
-G:\ShortcutsMini07082017\ShortcutsMini\obj\Debug\ShortcutsMini.frmlogin.resources
-G:\ShortcutsMini07082017\ShortcutsMini\obj\Debug\ShortcutsMini.FrmAddEmployee.resources
-G:\ShortcutsMini07082017\ShortcutsMini\obj\Debug\ShortcutsMini.frmEmployeeSearch.resources
-G:\ShortcutsMini07082017\ShortcutsMini\obj\Debug\ShortcutsMini.Resources.resources
-G:\ShortcutsMini07082017\ShortcutsMini\obj\Debug\ShortcutsMini.frmlogin.ii-CN.resources
-G:\ShortcutsMini07082017\ShortcutsMini\obj\Debug\ShortcutsMini.vbproj.GenerateResource.Cache
-G:\ShortcutsMini07082017\ShortcutsMini\obj\Debug\ii-CN\ShortcutsMini.resources.dll
-G:\ShortcutsMini07082017\ShortcutsMini\obj\Debug\ShortcutsMini.exe
-G:\ShortcutsMini07082017\ShortcutsMini\obj\Debug\ShortcutsMini.xml
-G:\ShortcutsMini07082017\ShortcutsMini\obj\Debug\ShortcutsMini.pdb
-C:\Users\ShemeerOveli\Documents\GitHub\Shortcuts\ShortcutsMini\obj\Debug\ShortcutsMini.exe
-C:\Users\ShemeerOveli\Documents\GitHub\Shortcuts\ShortcutsMini\obj\Debug\ShortcutsMini.xml
-C:\Users\ShemeerOveli\Documents\GitHub\Shortcuts\ShortcutsMini\obj\Debug\ShortcutsMini.pdb
