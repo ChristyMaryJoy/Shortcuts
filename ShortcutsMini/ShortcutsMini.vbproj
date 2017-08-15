@@ -79,6 +79,8 @@
     <Compile Include="BusinessLayer\ClientBL\ClsClientSearchBL.vb" />
     <Compile Include="BusinessLayer\InventoryBL\clsCompanyBL.vb" />
     <Compile Include="BusinessLayer\InventoryBL\clsLineBL.vb" />
+    <Compile Include="BusinessLayer\InventoryBL\clsProductBL.vb" />
+    <Compile Include="BusinessLayer\InventoryBL\clsSearchProductBL.vb" />
     <Compile Include="BusinessLayer\InventoryBL\clsSupplierBL.vb" />
     <Compile Include="BusinessLayer\ServiceBL\clsSeriesServiceBL.vb" />
     <Compile Include="BusinessLayer\ServiceBL\clsServiceBL.vb" />
@@ -92,6 +94,8 @@
     <Compile Include="BusinessLayer\EmployeeBL\ClsEmployeeSearchBL.vb" />
     <Compile Include="DataLayer\InventoryDL\clsCompanyDL.vb" />
     <Compile Include="DataLayer\InventoryDL\clsLineDL.vb" />
+    <Compile Include="DataLayer\InventoryDL\clsProductDL.vb" />
+    <Compile Include="DataLayer\InventoryDL\clsSearchProductDL.vb" />
     <Compile Include="DataLayer\InventoryDL\clsSupplierDL.vb" />
     <Compile Include="DataLayer\MastersDL\CreateLogFile.vb" />
     <Compile Include="DataLayer\ClientDL\ClsAddClientDL.vb" />
@@ -115,6 +119,18 @@
     </Compile>
     <Compile Include="Form1.Designer.vb">
       <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GuiInventory\frmProductOrder.Designer.vb">
+      <DependentUpon>frmProductOrder.vb</DependentUpon>
+    </Compile>
+    <Compile Include="GuiInventory\frmProductOrder.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GuiInventory\frmSearchProduct.Designer.vb">
+      <DependentUpon>frmSearchProduct.vb</DependentUpon>
+    </Compile>
+    <Compile Include="GuiInventory\frmSearchProduct.vb">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="GuiServices\frmAddPackageService.Designer.vb">
@@ -195,10 +211,10 @@
     <Compile Include="GuiMasters\frmlogin.vb">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="GuiEmployee\frmAddEmployee.Designer.vb">
-      <DependentUpon>frmAddEmployee.vb</DependentUpon>
+    <Compile Include="GuiEmployee\FrmAddEmployee.Designer.vb">
+      <DependentUpon>FrmAddEmployee.vb</DependentUpon>
     </Compile>
-    <Compile Include="GuiEmployee\frmAddEmployee.vb">
+    <Compile Include="GuiEmployee\FrmAddEmployee.vb">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="GuiEmployee\frmEmployeeSearch.Designer.vb">
@@ -228,8 +244,11 @@
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.vb</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="GuiMasters\frmlogin.en.resx">
-      <DependentUpon>frmlogin.vb</DependentUpon>
+    <EmbeddedResource Include="GuiInventory\frmProductOrder.resx">
+      <DependentUpon>frmProductOrder.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GuiInventory\frmSearchProduct.resx">
+      <DependentUpon>frmSearchProduct.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="GuiServices\frmAddPackageService.resx">
       <DependentUpon>frmAddPackageService.vb</DependentUpon>
@@ -273,8 +292,8 @@
     <EmbeddedResource Include="GuiMasters\frmlogin.resx">
       <DependentUpon>frmlogin.vb</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="GuiEmployee\frmAddEmployee.resx">
-      <DependentUpon>frmAddEmployee.vb</DependentUpon>
+    <EmbeddedResource Include="GuiEmployee\FrmAddEmployee.resx">
+      <DependentUpon>FrmAddEmployee.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="GuiEmployee\frmEmployeeSearch.resx">
       <DependentUpon>frmEmployeeSearch.vb</DependentUpon>
@@ -302,9 +321,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\Spa Logo.bmp" />
-  </ItemGroup>
-  <ItemGroup>
-    <Content Include="Sample1.txt" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="obj\" />

@@ -81,6 +81,7 @@ D:\ShortcutsMini Project Plans\Shortcuts03082017\ShortcutsMini\ShortcutsMini\obj
 D:\ShortcutsMini Project Plans\Shortcuts03082017\ShortcutsMini\ShortcutsMini\obj\Debug\ShortcutsMini.exe
 D:\ShortcutsMini Project Plans\Shortcuts03082017\ShortcutsMini\ShortcutsMini\obj\Debug\ShortcutsMini.xml
 D:\ShortcutsMini Project Plans\Shortcuts03082017\ShortcutsMini\ShortcutsMini\obj\Debug\ShortcutsMini.pdb
+<<<<<<< HEAD
 G:\ShortcutsMini07082017\ShortcutsMini\bin\Debug\ShortcutsMini.exe
 G:\ShortcutsMini07082017\ShortcutsMini\bin\Debug\ShortcutsMini.pdb
 G:\ShortcutsMini07082017\ShortcutsMini\bin\Debug\ShortcutsMini.xml
@@ -117,3 +118,5 @@ C:\Users\ShemeerOveli\Documents\GitHub\Shortcuts\ShortcutsMini\obj\Debug\Shortcu
 G:\Github2017\Shortcuts\ShortcutsMini\obj\Debug\ShortcutsMini.exe
 G:\Github2017\Shortcuts\ShortcutsMini\obj\Debug\ShortcutsMini.xml
 G:\Github2017\Shortcuts\ShortcutsMini\obj\Debug\ShortcutsMini.pdb
+=======
+>>>>>>> 57e926f7803205f0c2a28bccd80dd178f7d7a123

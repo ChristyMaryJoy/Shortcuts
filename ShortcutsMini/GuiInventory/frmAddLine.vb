@@ -286,5 +286,20 @@ Public Class frmAddLine
         End If
     End Sub
 
+    Private Sub frmAddLine_ExitClick() Handles Me.ExitClick
+
+    End Sub
+
     
+    Private Sub frmAddLine_Load(ByVal sender As Object, ByVal e As System.EventArgs) Handles Me.Load
+        Call toLoad()
+    End Sub
+
+    Private Sub frmAddLine_SaveClick() Handles Me.SaveClick
+        Call toSave()
+    End Sub
+
+    Private Sub frmAddLine_UpdateClick() Handles Me.UpdateClick
+        Call toUpdate()
+    End Sub
 End Class
