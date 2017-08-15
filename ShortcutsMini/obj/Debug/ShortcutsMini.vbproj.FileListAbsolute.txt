@@ -115,7 +115,6 @@ G:\ShortcutsMini07082017\ShortcutsMini\obj\Debug\ShortcutsMini.pdb
 C:\Users\ShemeerOveli\Documents\GitHub\Shortcuts\ShortcutsMini\obj\Debug\ShortcutsMini.exe
 C:\Users\ShemeerOveli\Documents\GitHub\Shortcuts\ShortcutsMini\obj\Debug\ShortcutsMini.xml
 C:\Users\ShemeerOveli\Documents\GitHub\Shortcuts\ShortcutsMini\obj\Debug\ShortcutsMini.pdb
-<<<<<<< HEAD
 C:\Users\ShemeerOveli\Documents\GitHub\Shortcuts\ShortcutsMini\bin\Debug\ShortcutsMini.exe
 C:\Users\ShemeerOveli\Documents\GitHub\Shortcuts\ShortcutsMini\bin\Debug\ShortcutsMini.pdb
 C:\Users\ShemeerOveli\Documents\GitHub\Shortcuts\ShortcutsMini\bin\Debug\ShortcutsMini.xml
@@ -148,6 +147,7 @@ C:\Users\ShemeerOveli\Documents\GitHub\Shortcuts\ShortcutsMini\obj\Debug\ii-CN\S
 G:\Github2017\Shortcuts\ShortcutsMini\obj\Debug\ShortcutsMini.exe
 G:\Github2017\Shortcuts\ShortcutsMini\obj\Debug\ShortcutsMini.xml
 G:\Github2017\Shortcuts\ShortcutsMini\obj\Debug\ShortcutsMini.pdb
-=======
 >>>>>>> 57e926f7803205f0c2a28bccd80dd178f7d7a123
 >>>>>>> fc1a3a3c68d8ee575949c5b3281f22ed550c1c53
+C:\Users\ShemeerOveli\Documents\GitHub\Shortcuts\ShortcutsMini\obj\Debug\ShortcutsMini.frmProductOrder.resources
+C:\Users\ShemeerOveli\Documents\GitHub\Shortcuts\ShortcutsMini\obj\Debug\ShortcutsMini.frmSearchProduct.resources
